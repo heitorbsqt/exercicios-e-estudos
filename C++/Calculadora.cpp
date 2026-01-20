@@ -1,9 +1,10 @@
-//Essa é uma simples calculadora em C++, criada como forma de estudo e exercicio na linguagem!
+//Essa Ã© uma simples calculadora em C++, criada como forma de estudo e exercicio na linguagem!
 
 
 # include <iostream>
 
-int main() {
+int main() 
+{
 
     char op;
     double num1;
@@ -47,3 +48,4 @@ int main() {
 
     return 0;
 }
+
